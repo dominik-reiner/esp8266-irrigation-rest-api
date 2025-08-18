@@ -50,9 +50,12 @@ curl http://esp8266-irrigation/irrigate
 curl http://esp8266-irrigation/climate
 ```
 
-## Credits and Acknowledgments
+## License
 
-This project builds upon the work of several open source projects and resources:
+This project is licensed under the **MIT License**. For more information, please see the [LICENSE](LICENSE) file.
 
-- [MicroPython](https://micropython.org/) - The core Python implementation for microcontrollers
-- [microdot](https://github.com/miguelgrinberg/microdot) - Modern and lightweight web framework for MicroPython
+This project uses various third-party libraries. A list of these libraries and their respective license notices can be found in the [NOTICE](NOTICE) file.
+
+Special thanks to the following libraries and tools:
+- [MicroPython](https://micropython.org/)
+- [microdot](https://github.com/miguelgrinberg/microdot)
